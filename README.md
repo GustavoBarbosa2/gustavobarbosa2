@@ -33,7 +33,7 @@
 </div>
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobarbosa2&theme=synthwave" alt="Contributions" />
-  <img src="https://streak-stats.demolab.com?user=gustavobarbosa2&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height = "200em" src="https://streak-stats.demolab.com?user=gustavobarbosa2&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height = "200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobarbosa2&theme=synthwave" alt="Contributions" />
 </div>
 
