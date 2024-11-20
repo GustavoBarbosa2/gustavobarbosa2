@@ -19,7 +19,12 @@
 ##  📊 GitHub Stats
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarbosa2&show_icons=true&theme=bear&count_private=true&layout=compact"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=gustavobarbosa2&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarbosa2&show_icons=true&theme=synthwave&count_private=true&layout=compact"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=gustavobarbosa2&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
+</div>
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobarbosa2&theme=synthwave" alt="Contributions" />
+  <img src="https://streak-stats.demolab.com?user=gustavobarbosa2&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
