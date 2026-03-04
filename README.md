@@ -2,7 +2,7 @@
 
 🏠 I´m from Barroselas, Viana do Castelo, Portugal.
 
-🏫 Currently, i´m studying Computer Engineering at ESTG - IPVC
+🏫 Bachelor’s Degree in Computer Engineering
 
 💪 My strong points are determination, organization and team working.
 
